@@ -1,0 +1,15 @@
+.hidden {
+  display: none;
+}
+.left,
+.right {
+  padding-top: 50px;
+}
+#studentForm {
+  background-color: #faf9f9;
+  padding: 20px;
+  border-radius: 5px;
+}
+.hide {
+  display: none;
+}
